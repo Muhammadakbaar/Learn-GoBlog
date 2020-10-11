@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8db62e16-b41a-4bd6-bc63-8123effd7bf4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/constant.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/konversi.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operasi-boolean.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/operasi_perbandingan.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variabel.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/variable.go" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1ig30N8y7SrwSjy4CKyeJjM8Wt4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build learngo (3)">
+    <configuration name="go build constant.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Learn-GoBlog" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/constant.go" />
+      <package value="learngo" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build learngo (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Learn-GoBlog" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/variabel.go" />
+      <package value="learngo" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build learngo (2)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Learn-GoBlog" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/operasi_perbandingan.go" />
+      <package value="learngo" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build learngo (3)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Learn-GoBlog" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/operasi-boolean.go" />
+      <package value="learngo" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build learngo" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Learn-GoBlog" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/konversi.go" />
+      <package value="learngo" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build variable.go" type="GoApplicationRunConfiguration" factoryName="Go Application" nameIsGenerated="true">
+      <module name="Learn-GoBlog" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/variable.go" />
+      <package value="learngo" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build variable.go" />
+      <item itemvalue="Go Build.go build constant.go" />
+      <item itemvalue="Go Build.go build learngo" />
+      <item itemvalue="Go Build.go build learngo (1)" />
+      <item itemvalue="Go Build.go build learngo (2)" />
+      <item itemvalue="Go Build.go build learngo (3)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build learngo (3)" />
+        <item itemvalue="Go Build.go build learngo (2)" />
+        <item itemvalue="Go Build.go build learngo (1)" />
+        <item itemvalue="Go Build.go build learngo" />
+        <item itemvalue="Go Build.go build constant.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="141" y="16" width="1084" height="752" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602397567830">
+      <screen x="0" y="16" width="1366" height="752" />
+    </state>
+    <state x="141" y="16" width="1084" height="752" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.16.1366.752@0.16.1366.752" timestamp="1602397567830" />
+    <state width="1294" height="222" key="GridCell.Tab.0.bottom" timestamp="1602405973255">
+      <screen x="0" y="16" width="1366" height="752" />
+    </state>
+    <state width="1294" height="222" key="GridCell.Tab.0.bottom/0.16.1366.752@0.16.1366.752" timestamp="1602405973255" />
+    <state width="1294" height="222" key="GridCell.Tab.0.center" timestamp="1602405973255">
+      <screen x="0" y="16" width="1366" height="752" />
+    </state>
+    <state width="1294" height="222" key="GridCell.Tab.0.center/0.16.1366.752@0.16.1366.752" timestamp="1602405973255" />
+    <state width="1294" height="222" key="GridCell.Tab.0.left" timestamp="1602405973254">
+      <screen x="0" y="16" width="1366" height="752" />
+    </state>
+    <state width="1294" height="222" key="GridCell.Tab.0.left/0.16.1366.752@0.16.1366.752" timestamp="1602405973254" />
+    <state width="1294" height="222" key="GridCell.Tab.0.right" timestamp="1602405973255">
+      <screen x="0" y="16" width="1366" height="752" />
+    </state>
+    <state width="1294" height="222" key="GridCell.Tab.0.right/0.16.1366.752@0.16.1366.752" timestamp="1602405973255" />
+    <state width="1294" height="222" key="GridCell.Tab.1.bottom" timestamp="1602405973256">
+      <screen x="0" y="16" width="1366" height="752" />
+    </state>
+    <state width="1294" height="222" key="GridCell.Tab.1.bottom/0.16.1366.752@0.16.1366.752" timestamp="1602405973256" />
+    <state width="1294" height="222" key="GridCell.Tab.1.center" timestamp="1602405973256">
+      <screen x="0" y="16" width="1366" height="752" />
+    </state>
+    <state width="1294" height="222" key="GridCell.Tab.1.center/0.16.1366.752@0.16.1366.752" timestamp="1602405973256" />
+    <state width="1294" height="222" key="GridCell.Tab.1.left" timestamp="1602405973255">
+      <screen x="0" y="16" width="1366" height="752" />
+    </state>
+    <state width="1294" height="222" key="GridCell.Tab.1.left/0.16.1366.752@0.16.1366.752" timestamp="1602405973255" />
+    <state width="1294" height="222" key="GridCell.Tab.1.right" timestamp="1602405973256">
+      <screen x="0" y="16" width="1366" height="752" />
+    </state>
+    <state width="1294" height="222" key="GridCell.Tab.1.right/0.16.1366.752@0.16.1366.752" timestamp="1602405973256" />
+  </component>
+</project>
