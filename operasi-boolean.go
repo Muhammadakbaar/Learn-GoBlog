@@ -4,7 +4,7 @@ import "fmt"
 
 func main()  {
 
-	var ujian =  80
+	var ujian  =  80
 	var absensi = 80
 
 	var lulusUjian = ujian >= 80
