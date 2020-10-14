@@ -39,4 +39,24 @@ func main()  {
 
 	fmt.Println(slice2)
 	fmt.Println(month)
+
+	newSlice := make([]string, 2, 5)
+
+	newSlice[0] = "Muhammad"
+	newSlice[1] = "Akbar"
+
+	fmt.Println(newSlice)
+	fmt.Println(len(newSlice))
+	fmt.Println(cap(newSlice))
+
+	copySlice := make([]string, len(newSlice), cap(newSlice))
+	copy(copySlice, newSlice)
+	fmt.Println(copySlice)
+
+	iniArray := [5]int {1, 2, 3, 4, 5}
+	iniSlice :=[]int{1, 2, 3, 4, 5 }
+
+	fmt.Println(iniArray)
+	fmt.Println(iniSlice)
+
 }
