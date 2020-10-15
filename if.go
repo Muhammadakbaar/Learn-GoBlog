@@ -12,4 +12,10 @@ func main(){
 	 }else{
 	 	fmt.Println("default")
 	 }
+
+	 if panjang := len(nama); panjang < 5 {
+	 	fmt.Println("Nama Terlalu Panjang")
+	 }else {
+	 	fmt.Println("Nama Terlalu Pendek")
+	 }
 }
