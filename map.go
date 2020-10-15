@@ -10,10 +10,19 @@ func main()  {
 		"Sitamvan" : 1,
 		"Akbar Tamvan" : true,
 	}
-	fmt.Println(person)
 	fmt.Println(person["nama"])
 	fmt.Println(person["asal"])
-	fmt.Println(person["Akbar Tamvanf"])
+	fmt.Println(person["SiTamvan"])
+	fmt.Println(person["Akbar Tamvan"])
+
+	var book map[string]string = make(map[string] string)
+	book["title"] = "belajar Golang"
+	book["author"] = "sitamvan"
+	book["ups"] = "salah"
+
+	delete(book, "ups")
+
+	fmt.Println(book)
 
 
 }

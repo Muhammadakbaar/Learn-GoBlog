@@ -20,11 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8db62e16-b41a-4bd6-bc63-8123effd7bf4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/map.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/if.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/slice.go" beforeDir="false" afterPath="$PROJECT_DIR$/slice.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/map.go" beforeDir="false" afterPath="$PROJECT_DIR$/map.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,13 +57,12 @@
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Go Build.go build setering.go">
-    <configuration name="go build learngo (4)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Go Build.go build if.go">
+    <configuration name="go build if.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Learn-GoBlog" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/array.go" />
-      <package value="learngo" />
+      <filePath value="$PROJECT_DIR$/if.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -114,19 +111,19 @@
     </configuration>
     <list>
       <item itemvalue="Go Build.go build variable.go" />
-      <item itemvalue="Go Build.go build learngo (4)" />
       <item itemvalue="Go Build.go build learngo (5)" />
       <item itemvalue="Go Build.go build learngo" />
       <item itemvalue="Go Build.go build variabel.go" />
       <item itemvalue="Go Build.go build setering.go" />
+      <item itemvalue="Go Build.go build if.go" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build if.go" />
+        <item itemvalue="Go Build.go build learngo" />
         <item itemvalue="Go Build.go build setering.go" />
         <item itemvalue="Go Build.go build variabel.go" />
-        <item itemvalue="Go Build.go build learngo" />
         <item itemvalue="Go Build.go build learngo (5)" />
-        <item itemvalue="Go Build.go build learngo (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -154,26 +151,26 @@
       <screen x="0" y="16" width="1366" height="752" />
     </state>
     <state x="141" y="16" width="1084" height="752" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.16.1366.752@0.16.1366.752" timestamp="1602397567830" />
-    <state width="1320" height="178" key="GridCell.Tab.0.bottom" timestamp="1602640683934">
+    <state width="1320" height="178" key="GridCell.Tab.0.bottom" timestamp="1602745438914">
       <screen x="0" y="312" width="1366" height="768" />
     </state>
     <state width="1294" height="222" key="GridCell.Tab.0.bottom/0.16.1366.752@0.16.1366.752" timestamp="1602405973255" />
-    <state width="1320" height="178" key="GridCell.Tab.0.bottom/1366.0.1920.1080/0.312.1366.768@0.312.1366.768" timestamp="1602640683934" />
-    <state width="1320" height="178" key="GridCell.Tab.0.center" timestamp="1602640683934">
+    <state width="1320" height="178" key="GridCell.Tab.0.bottom/1366.0.1920.1080/0.312.1366.768@0.312.1366.768" timestamp="1602745438914" />
+    <state width="1320" height="178" key="GridCell.Tab.0.center" timestamp="1602745438914">
       <screen x="0" y="312" width="1366" height="768" />
     </state>
     <state width="1294" height="222" key="GridCell.Tab.0.center/0.16.1366.752@0.16.1366.752" timestamp="1602405973255" />
-    <state width="1320" height="178" key="GridCell.Tab.0.center/1366.0.1920.1080/0.312.1366.768@0.312.1366.768" timestamp="1602640683934" />
-    <state width="1320" height="178" key="GridCell.Tab.0.left" timestamp="1602640683934">
+    <state width="1320" height="178" key="GridCell.Tab.0.center/1366.0.1920.1080/0.312.1366.768@0.312.1366.768" timestamp="1602745438914" />
+    <state width="1320" height="178" key="GridCell.Tab.0.left" timestamp="1602745438914">
       <screen x="0" y="312" width="1366" height="768" />
     </state>
     <state width="1294" height="222" key="GridCell.Tab.0.left/0.16.1366.752@0.16.1366.752" timestamp="1602405973254" />
-    <state width="1320" height="178" key="GridCell.Tab.0.left/1366.0.1920.1080/0.312.1366.768@0.312.1366.768" timestamp="1602640683934" />
-    <state width="1320" height="178" key="GridCell.Tab.0.right" timestamp="1602640683934">
+    <state width="1320" height="178" key="GridCell.Tab.0.left/1366.0.1920.1080/0.312.1366.768@0.312.1366.768" timestamp="1602745438914" />
+    <state width="1320" height="178" key="GridCell.Tab.0.right" timestamp="1602745438914">
       <screen x="0" y="312" width="1366" height="768" />
     </state>
     <state width="1294" height="222" key="GridCell.Tab.0.right/0.16.1366.752@0.16.1366.752" timestamp="1602405973255" />
-    <state width="1320" height="178" key="GridCell.Tab.0.right/1366.0.1920.1080/0.312.1366.768@0.312.1366.768" timestamp="1602640683934" />
+    <state width="1320" height="178" key="GridCell.Tab.0.right/1366.0.1920.1080/0.312.1366.768@0.312.1366.768" timestamp="1602745438914" />
     <state width="1294" height="222" key="GridCell.Tab.1.bottom" timestamp="1602405973256">
       <screen x="0" y="16" width="1366" height="752" />
     </state>
