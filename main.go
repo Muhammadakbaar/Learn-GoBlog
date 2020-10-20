@@ -1,15 +1,19 @@
 package main
 
-import "github.com/gin-gonic/gin"
+import (
+	"net/http"
+)
 
-func ping(c *gin.Context) {
-	c.JSON(200, gin.H{
-		"tampil": "sitamvan",
+const message = "Hello World"
+
+func main()  {
+	mux := http.NewServeMux()
+	mux.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
+		w.Header().Set("Content-Type", "text/plain; charset=utf" )
+		w.WriteHeader(http.StatusOK)
+		w.Write([] byte (message))
 	})
-}
+	http.ListenAndServe(":8080", mux)
 
-func  main(){
-	 r  := gin.Default()
-	r.GET("/ping", ping)
-	r.Run() // listen and serve on 0.0.0.0:8080
+	
 }
